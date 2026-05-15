@@ -1,4 +1,4 @@
-Cafe,Classification,Lat,Lon,Amenities,Service Hours,Menu,Price Range,Ratings
+Cafe,Classification,Lat,Lng,Amenities,Service Hours,Menu,Price Range,Ratings
 What About Coffee? (WACO),Cafe,14.66114174,121.0729492,"Food, Outlets, Wi-Fi",Mon to Sun - 6:00 AM to 9:00 PM,"Coffee, Juices, Smoothies, Pastries, Rice Meals, Pasta, Sandwiches","1, 500",4.7
 Lunar Coffee,Cafe,14.6595891,121.0697677,"Food, Reading Area, Outlets",Mon to Sun - 9:00 AM to 9:00 PM,"Coffee, Smoothies, Pastries","1, 300",4.8
 Dunkin',Cafe,14.6597036,121.0695197,"Food, Reading Area",Mon to Sun - 8:00 AM to 9:00 PM,"Coffee, Juices, Sandwiches, Smoothies","1, 300",3.9
